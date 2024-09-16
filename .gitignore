@@ -1,0 +1,44 @@
+# Arquivos de saída de compilação
+*.aux
+*.bbl
+*.blg
+*.brf
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+
+# Arquivos gerados pelo glossário e outros pacotes
+*.glg
+*.glo
+*.gls
+*.ist
+*.acn
+*.acr
+*.alg
+
+# Arquivos temporários
+*~
+*.bak
+*.swp
+*.tmp
+
+# PDF gerado pelo LaTeX
+*.pdf
+
+# Diretório do VSCode
+.vscode/
+
+# Arquivos de compilação de figuras
+*.dvi
+*.ps
+*.eps
+
+# Diretório de construção do latexmk (caso esteja usando)
+./build/
